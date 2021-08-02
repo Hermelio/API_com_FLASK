@@ -43,5 +43,6 @@ def inicializar_banco():
     db.session.commit()
 
 
+# modify
 if __name__ == "__main__":
     inicializar_banco()
